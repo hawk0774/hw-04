@@ -28,6 +28,19 @@
 ------
 В случае использования MacOS вы получите ошибку "Incompatible provider version" . В этом случае скачайте remote модуль локально и поправьте в нем версию template провайдера на более старую.  
 ------
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_3.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_4.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_5.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_6.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_7.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_8.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_9.png)
 
 ### Задание 2
 
@@ -47,6 +60,9 @@ module "vpc_dev" {
   cidr = "10.0.1.0/24"
 }
 ```
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_1.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_2.png)
 
 ### Задание 3
 1. Выведите список ресурсов в стейте.
@@ -54,3 +70,15 @@ module "vpc_dev" {
 3. Полностью удалите из стейта модуль vm.
 4. Импортируйте всё обратно. Проверьте terraform plan. Значимых(!!) изменений быть не должно.
 Приложите список выполненных команд и скриншоты процессы.
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_10.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_11.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_12.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_13.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_14.png)
+
+![alt text](https://raw.githubusercontent.com/hawk0774/hw-04/main/Screenshot_15.png)
